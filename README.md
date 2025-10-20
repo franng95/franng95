@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://socialify.git.ci/franng95/franng95/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+  <img src="https://socialify.git.ci/franng95/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
 </p>
 
 **2nd Year CS Student** @ University of Greenwich | **Transitioning:** Hospitality → Software Engineering  
