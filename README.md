@@ -1,11 +1,12 @@
 # Hi, I'm Fran 👋
 
-**2nd Year CS Student** @ University of Greenwich | **Aspiring Software Engineer** | **Hospitality → Tech Career Changer**
+**2nd Year CS Student** @ University of Greenwich | **Transitioning:** Hospitality → Software Engineering  
+**Interested in:** Mobile Development, AI/ML, Full-Stack Applications
 
-🔭 Currently building projects in **Python**, **Web Development**, and **Desktop Apps**  
-🌱 Learning **Algorithms**, **Data Structures**, and **AI fundamentals**  
-💼 Looking for **Software Engineering Internships** (Summer 2026)  
-📍 Based in **London, UK**
+🔭 Building projects in **Flutter**, **Python**, and **Web Development**  
+🌱 Learning **Algorithms**, **Firebase Backend**, and **AI Fundamentals**  
+💼 Seeking **Software Engineering Internships** (Summer 2026)  
+📍 London, UK
 
 ---
 
@@ -13,31 +14,35 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-**Tools & Frameworks:**  
+**Frameworks & Tools:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Flet](https://img.shields.io/badge/-Flet-02569B?style=flat&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [🌳 FamilyTree](https://github.com/franng95/FamilyTree)
-Python application for managing family relationships with OOP design and SQLite backend  
-`Python` `SQLite` `OOP` `Unit Testing`
+### [📱 Meeting Platform](https://github.com/franng95/meeting_platform)
+Full-stack Flutter mobile app with Firebase backend for scheduling meetings  
+`Flutter` `Dart` `Firebase` `Riverpod` `Cloud Functions`
 
-### [💪 NowFitness](https://github.com/franng95/NowFitness)
+### [🌳 Family Tree Manager](https://github.com/franng95/FamilyTree)
+Python application for managing multi-generational family relationships with OOP design  
+`Python` `OOP` `Unit Testing`
+
+### [💪 Now Fitness](https://github.com/franng95/NowFitness)
 Responsive fitness website with modern UI and mobile-first design  
 `HTML` `CSS` `JavaScript` `Responsive Design`
 
 ### [🤖 University Chatbot](https://github.com/franng95/Chatbot-Flet)
-Desktop chatbot for students to access schedules, deadlines, and contacts  
+Desktop chatbot for students to access schedules and course information  
 `Python` `Flet` `Desktop App`
 
 ---
@@ -48,18 +53,21 @@ Desktop chatbot for students to access schedules, deadlines, and contacts
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 Current Focus
 
-- [ ] Land a software engineering internship
-- [ ] Build 2 more portfolio projects
-- [ ] Master data structures & algorithms
-- [ ] Contribute to open-source projects
+- Building mobile applications with Flutter & Firebase
+- Strengthening algorithms & data structures foundation
+- Contributing to open-source projects
+- Preparing for software engineering internships
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/franjng)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:frannavarrogil@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/franng95)
 
-💡 *"Transitioning from hospitality management to tech - bringing problem-solving, teamwork, and a fresh perspective to software development."*
+---
+
+💡 *"From managing teams in hospitality to building software - bringing problem-solving, communication, and a fresh perspective to tech."*
